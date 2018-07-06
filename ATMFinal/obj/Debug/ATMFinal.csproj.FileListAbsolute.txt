@@ -1,0 +1,7 @@
+C:\Full Stack\Repositories\ATMFinal\bin\Debug\ATMFinal.exe.config
+C:\Full Stack\Repositories\ATMFinal\bin\Debug\ATMFinal.exe
+C:\Full Stack\Repositories\ATMFinal\bin\Debug\ATMFinal.pdb
+C:\Full Stack\Repositories\ATMFinal\obj\Debug\ATMFinal.csprojAssemblyReference.cache
+C:\Full Stack\Repositories\ATMFinal\obj\Debug\ATMFinal.csproj.CoreCompileInputs.cache
+C:\Full Stack\Repositories\ATMFinal\obj\Debug\ATMFinal.exe
+C:\Full Stack\Repositories\ATMFinal\obj\Debug\ATMFinal.pdb
